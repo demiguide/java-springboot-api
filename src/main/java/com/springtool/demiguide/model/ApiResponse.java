@@ -1,4 +1,4 @@
-package com.springtool.demiguide.util;
+package com.springtool.demiguide.model;
 
 public class ApiResponse {
     private String status;

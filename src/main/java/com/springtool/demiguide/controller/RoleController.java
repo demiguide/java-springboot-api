@@ -2,7 +2,7 @@ package com.springtool.demiguide.controller;
 
 import com.springtool.demiguide.entity.RoleEntity;
 import com.springtool.demiguide.service.RoleService;
-import com.springtool.demiguide.util.ApiResponse;
+import com.springtool.demiguide.model.ApiResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

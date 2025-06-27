@@ -1,4 +1,4 @@
-package com.springtool.demiguide.util;
+package com.springtool.demiguide.model;
 
 import java.util.List;
 
